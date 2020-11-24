@@ -1,4 +1,5 @@
-# App for searcning nation from given list of countries.
+
+# App for searching nation from given list of countries.
 
 ## Screenshot
 
